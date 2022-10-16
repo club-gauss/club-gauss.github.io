@@ -1,6 +1,5 @@
 ---
 title: First Seminar by Dr. Jonathan Frankle
-author: Club Gauss
 date: 2022-10-16 19:15:00 +0900
 categories: [Seminar]
 tags: [Jonathan Frankle, Seminar, MosaicML, Lottery Ticket Hypothesis]
