@@ -26,7 +26,6 @@ title: Club Gauss                      # the main title
 tagline: Undergraduate group in SNU, focused on Applied Mathematics   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  # A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
   Undergraduate student group in Seoul National University(SNU), which focused on applied mathematics, including
   Machine Learning and Cryptography.
 
@@ -37,7 +36,7 @@ github:
   username: club-gauss              # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
   # Change to your full name.
