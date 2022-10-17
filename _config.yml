@@ -26,7 +26,7 @@ title: Club Gauss                      # the main title
 tagline: Undergraduate group in SNU, focused on Applied Mathematics   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Undergraduate student group in Seoul National University(SNU), which focused on applied mathematics, including
+  Undergraduate student group in Seoul National University(SNU), focused on applied mathematics, including
   Machine Learning and Cryptography.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
@@ -44,9 +44,10 @@ social:
   name: Club Gauss
   email: clubgauss2@gmail.com             # change to your email address
   links:
+    - https://club-gauss.github.io/about/
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/club-gauss       # change to your github homepage
+    # - https://github.com/club-gauss       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
