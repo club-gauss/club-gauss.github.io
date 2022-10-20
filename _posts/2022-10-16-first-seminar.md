@@ -22,10 +22,16 @@ Thank you!
 # Faster Neural Network Training, Algorithmically
 
 ## Date & Time
-#### 2022-10-24 09:30 AM - 11:30 AM
+#### 2022-10-24 09:30 AM - 11:00 AM
 
 ## Zoom Link
-#### TBA
+
+###### Registration Link 
+* <https://us06web.zoom.us/webinar/register/WN_HsGPYQ02StmRELQwINgb3A>
+
+###### Zoom ID 
+* 863 5059 0804
+
 
 ## Abstract 
 Training modern neural networks is time-consuming, expensive, and energy-intensive. As the cost of training state-of-the-art networks doubles in size every few months, it is difficult for researchers and businesses without immense budgets to keep up. In this talk, I will describe one approach for managing this challenge: changing the training algorithm itself. While many companies and researchers are focused on building hardware and systems to allow existing algorithms to run faster in a mathematically equivalent fashion, there is nothing sacred about this math. To the contrary, training neural networks is inherently approximate, relying on noisy data, convex optimizers in nonconvex regimes, and ad hoc tricks and hacks that seem to work well in practice for reasons that elude us. I will argue that we should exploit the approximate nature of neural network training to change the math of training in order to improve efficiency. This viewpoint, which I studied during my PhD work on neural network sparsity and the Lottery Ticket Hypothesis, is now being applied at scale at MosaicML.
