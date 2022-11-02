@@ -3,7 +3,7 @@ title: (10/24) First Seminar by Prof. Jonathan Frankle
 date: 2022-10-16 19:15:00 +0900
 categories: [Seminar, Gauss Jr. Colloquium]
 tags: [Jonathan Frankle, Seminar, MosaicML, Lottery Ticket Hypothesis, Gauss Jr. Colloquium]
-pin: true
+pin: false
 ---
 
 Hello!
